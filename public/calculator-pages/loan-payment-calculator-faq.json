@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an Advanced Loan Payment Calculator?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An advanced loan payment calculator provides detailed analysis of your monthly payments, including amortization schedules, interest breakdowns, and early payoff options. It's perfect for mortgages, student loans, and large loans."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes this calculator different from basic calculators?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This calculator offers advanced features like detailed amortization schedules, early payoff analysis, and comprehensive interest breakdowns. It's designed for complex loan scenarios where you need detailed financial analysis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I calculate different payment scenarios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can calculate various payment scenarios including different interest rates, loan terms, and extra payment options. This helps you understand how different factors affect your loan repayment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of loans does this calculator support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This calculator supports mortgages, student loans, and other large loans that require detailed payment analysis. It's particularly useful for long-term loans where understanding the payment structure is important."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I use this calculator for loan planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use this calculator to plan your loan payments by analyzing different scenarios, understanding your amortization schedule, and exploring early payoff options. It helps you make informed decisions about your loan repayment strategy."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Basic Loan Calculator?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A basic loan calculator is a tool that helps you calculate your monthly loan payments, total interest, and loan term. It's perfect for personal loans, car loans, and small business loans."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the Basic Loan Calculator work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The calculator uses your loan amount, interest rate, and loan term to calculate your monthly payment and total interest. It provides a simple and quick way to understand your loan repayment options."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of loans can I calculate with this calculator?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can use this calculator for personal loans, car loans, and small business loans. It's designed for simple loan calculations where you need quick results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is this calculator accurate for all loan types?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While this calculator provides accurate estimates for basic loan calculations, it's recommended to consult with a financial advisor for complex loan scenarios or specific loan requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I use this calculator?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use this calculator whenever you need to quickly estimate loan payments or compare different loan options. It's particularly useful when shopping for loans or budgeting your finances."
+      }
+    }
+  ]
+}

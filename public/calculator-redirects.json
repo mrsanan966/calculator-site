@@ -1,0 +1,492 @@
+{
+  "redirects": [
+    {
+      "from": "www.financeloancalc.com/loanpaymentcalculator",
+      "to": "https://www.financeloancalc.com/loan-payment-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/loanpaymentcalculator",
+      "to": "https://www.financeloancalc.com/loan-payment-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/helocalculator",
+      "to": "https://www.financeloancalc.com/heloc-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/helocalculator",
+      "to": "https://www.financeloancalc.com/heloc-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/mortgagepaymentcalculator",
+      "to": "https://www.financeloancalc.com/mortgage-payment-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/mortgagepaymentcalculator",
+      "to": "https://www.financeloancalc.com/mortgage-payment-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/investmentgrowthcalculator",
+      "to": "https://www.financeloancalc.com/investment-growth-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/investmentgrowthcalculator",
+      "to": "https://www.financeloancalc.com/investment-growth-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/savingscalculator",
+      "to": "https://www.financeloancalc.com/savings-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/savingscalculator",
+      "to": "https://www.financeloancalc.com/savings-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/taxcalculator",
+      "to": "https://www.financeloancalc.com/tax-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/taxcalculator",
+      "to": "https://www.financeloancalc.com/tax-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/retirementcalculator",
+      "to": "https://www.financeloancalc.com/retirement-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/retirementcalculator",
+      "to": "https://www.financeloancalc.com/retirement-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/gpacalculator",
+      "to": "https://www.financeloancalc.com/gpa-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/gpacalculator",
+      "to": "https://www.financeloancalc.com/gpa-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/odds-calculator",
+      "to": "https://www.financeloancalc.com/odds-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/oddscalculator",
+      "to": "https://www.financeloancalc.com/odds-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/oddscalculator",
+      "to": "https://www.financeloancalc.com/odds-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/land-loan-calculator",
+      "to": "https://www.financeloancalc.com/land-loan-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/landloancalculator",
+      "to": "https://www.financeloancalc.com/land-loan-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/landloancalculator",
+      "to": "https://www.financeloancalc.com/land-loan-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/refinance-calculator",
+      "to": "https://www.financeloancalc.com/refinance-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/investmentgrowthcalculator",
+      "to": "https://www.financeloancalc.com/investment-growth-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/investmentgrowthcalculator",
+      "to": "https://www.financeloancalc.com/investment-growth-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/heloc-calculator",
+      "to": "https://www.financeloancalc.com/heloc-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/heloccalculator",
+      "to": "https://www.financeloancalc.com/heloc-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/heloccalculator",
+      "to": "https://www.financeloancalc.com/heloc-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/gross-margin-calculator",
+      "to": "https://www.financeloancalc.com/gross-margin-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/grossmargincalculator",
+      "to": "https://www.financeloancalc.com/gross-margin-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/grossmargincalculator",
+      "to": "https://www.financeloancalc.com/gross-margin-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/grade-calculator",
+      "to": "https://www.financeloancalc.com/grade-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/gradecalculator",
+      "to": "https://www.financeloancalc.com/grade-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/gradecalculator",
+      "to": "https://www.financeloancalc.com/grade-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/cit-platinum-savings-calculator",
+      "to": "https://www.financeloancalc.com/cit-platinum-savings-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/citplatinumsavingscalculator",
+      "to": "https://www.financeloancalc.com/cit-platinum-savings-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/loan-calculator",
+      "to": "https://www.financeloancalc.com/loan-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/loan-calculator",
+      "to": "https://www.financeloancalc.com/loan-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/loanpaymentcalculator",
+      "to": "https://www.financeloancalc.com/loan-payment-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/loanpaymentcalculator",
+      "to": "https://www.financeloancalc.com/loan-payment-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/mortgage-calculator",
+      "to": "https://www.financeloancalc.com/mortgage-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/mortgage-calculator",
+      "to": "https://www.financeloancalc.com/mortgage-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/mortgagepaymentcalculator",
+      "to": "https://www.financeloancalc.com/mortgage-payment-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/mortgagepaymentcalculator",
+      "to": "https://www.financeloancalc.com/mortgage-payment-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/car-payment-calculator",
+      "to": "https://www.financeloancalc.com/car-payment-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/car-payment-calculator",
+      "to": "https://www.financeloancalc.com/car-payment-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/credit-card-interest-calculator",
+      "to": "https://www.financeloancalc.com/credit-card-interest-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/credit-card-interest-calculator",
+      "to": "https://www.financeloancalc.com/credit-card-interest-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/compound-interest-calculator",
+      "to": "https://www.financeloancalc.com/compound-interest-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/compound-interest-calculator",
+      "to": "https://www.financeloancalc.com/compound-interest-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/retirement-calculator",
+      "to": "https://www.financeloancalc.com/retirement-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/retirement-calculator",
+      "to": "https://www.financeloancalc.com/retirement-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/bmi-calculator",
+      "to": "https://www.financeloancalc.com/bmi-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/bmi-calculator",
+      "to": "https://www.financeloancalc.com/bmi-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/gpa-calculator",
+      "to": "https://www.financeloancalc.com/gpa-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/gpa-calculator",
+      "to": "https://www.financeloancalc.com/gpa-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/debt-calculator",
+      "to": "https://www.financeloancalc.com/debt-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/debt-calculator",
+      "to": "https://www.financeloancalc.com/debt-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/tip-calculator",
+      "to": "https://www.financeloancalc.com/tip-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/tip-calculator",
+      "to": "https://www.financeloancalc.com/tip-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/salary-calculator",
+      "to": "https://www.financeloancalc.com/salary-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/salary-calculator",
+      "to": "https://www.financeloancalc.com/salary-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/citplatinumsavingscalculator",
+      "to": "https://www.financeloancalc.com/citplatinumsavings-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/citplatinumsavings-calculator",
+      "to": "https://www.financeloancalc.com/citplatinumsavings-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/cithysacalculator",
+      "to": "https://www.financeloancalc.com/cithysa-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/cithysacalculator",
+      "to": "https://www.financeloancalc.com/cithysa-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/cithysa-calculator",
+      "to": "https://www.financeloancalc.com/cithysa-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/citbankhighyieldsavingscalculator",
+      "to": "https://www.financeloancalc.com/citbankhighyieldsavings-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/citbankhighyieldsavingscalculator",
+      "to": "https://www.financeloancalc.com/citbankhighyieldsavings-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/citbankhighyieldsavings-calculator",
+      "to": "https://www.financeloancalc.com/citbankhighyieldsavings-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/citbankcalculator",
+      "to": "https://www.financeloancalc.com/citbank-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/citbankcalculator",
+      "to": "https://www.financeloancalc.com/citbank-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/citbank-calculator",
+      "to": "https://www.financeloancalc.com/citbank-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/californiapaycheckcalculator",
+      "to": "https://www.financeloancalc.com/californiapaycheck-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/californiapaycheckcalculator",
+      "to": "https://www.financeloancalc.com/californiapaycheck-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/californiapaycheck-calculator",
+      "to": "https://www.financeloancalc.com/californiapaycheck-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/birthnegligencecompensationcalculator",
+      "to": "https://www.financeloancalc.com/birthnegligencecompensation-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/birthnegligencecompensationcalculator",
+      "to": "https://www.financeloancalc.com/birthnegligencecompensation-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/birthnegligencecompensation-calculator",
+      "to": "https://www.financeloancalc.com/birthnegligencecompensation-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/bigquerycostcalculator",
+      "to": "https://www.financeloancalc.com/bigquerycost-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/bigquerycostcalculator",
+      "to": "https://www.financeloancalc.com/bigquerycost-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/bigquerycost-calculator",
+      "to": "https://www.financeloancalc.com/bigquerycost-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/autoloancalculator",
+      "to": "https://www.financeloancalc.com/autoloan-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/birth--negligence--compensation--calculator",
+      "to": "https://www.financeloancalc.com/birth-negligence-compensation-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/birthnegligencecompensationcalculator",
+      "to": "https://www.financeloancalc.com/birth-negligence-compensation-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/age-calculator",
+      "to": "https://www.financeloancalc.com/age-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/agecalculator",
+      "to": "https://www.financeloancalc.com/age-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/age-calculator",
+      "to": "https://www.financeloancalc.com/age-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/about-us",
+      "to": "https://www.financeloancalc.com/about-us",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/about-us",
+      "to": "https://www.financeloancalc.com/about-us",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/adppaycheckcalculator",
+      "to": "https://www.financeloancalc.com/adppaycheck-calculator",
+      "status": 301
+    }
+  ],
+  "canonical_urls": [
+    "https://www.financeloancalc.com/time--calculator",
+    "https://www.financeloancalc.com/tax--calculator",
+    "https://www.financeloancalc.com/rocket-mortgage--calculator",
+    "https://www.financeloancalc.com/reba-calculator",
+    "https://www.financeloancalc.com/profitmargin-calculator",
+    "https://www.financeloancalc.com/personalloan-calculator",
+    "https://www.financeloancalc.com/parlay-calculator",
+    "https://www.financeloancalc.com/odds-calculator",
+    "https://www.financeloancalc.com/mortgage-calculator",
+    "https://www.financeloancalc.com/margin-calculator",
+    "https://www.financeloancalc.com/loan-calculator",
+    "https://www.financeloancalc.com/landloan-calculator",
+    "https://www.financeloancalc.com/investmentgrowth-calculator",
+    "https://www.financeloancalc.com/heloc-calculator",
+    "https://www.financeloancalc.com/grossmargin-calculator",
+    "https://www.financeloancalc.com/grade-calculator",
+    "https://www.financeloancalc.com/gpa-calculator",
+    "https://www.financeloancalc.com/dunk-calculator",
+    "https://www.financeloancalc.com/citplatinumsavings-calculator",
+    "https://www.financeloancalc.com/cithysa-calculator",
+    "https://www.financeloancalc.com/citbankhighyieldsavings-calculator",
+    "https://www.financeloancalc.com/citbank-calculator",
+    "https://www.financeloancalc.com/californiapaycheck-calculator",
+    "https://www.financeloancalc.com/birthnegligencecompensation-calculator",
+    "https://www.financeloancalc.com/bigquerycost-calculator",
+    "https://www.financeloancalc.com/autoloan-calculator",
+    "https://www.financeloancalc.com/age-calculator",
+    "https://www.financeloancalc.com/adppaycheck-calculator",
+    "https://www.financeloancalc.com/about-us",
+    "https://www.financeloancalc.com/privacypolicy",
+    "https://www.financeloancalc.com/time"
+  ]
+}

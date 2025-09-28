@@ -1,0 +1,229 @@
+{
+  "redirects": [
+    {
+      "from": "/about",
+      "to": "/about-us",
+      "status": 301
+    },
+    {
+      "from": "/aboutus",
+      "to": "/about-us",
+      "status": 301
+    },
+    {
+      "from": "/privacy",
+      "to": "/privacy-policy",
+      "status": 301
+    },
+    {
+      "from": "/privacypolicy",
+      "to": "/privacy-policy",
+      "status": 301
+    },
+    {
+      "from": "/terms",
+      "to": "/terms-of-service",
+      "status": 301
+    },
+    {
+      "from": "/termsofservice",
+      "to": "/terms-of-service",
+      "status": 301
+    },
+    {
+      "from": "/home",
+      "to": "/",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/*",
+      "to": "financeloancalc.com/$1",
+      "status": 301
+    },
+    {
+      "from": "*.html",
+      "to": "remove",
+      "status": 301
+    },
+    {
+      "from": "/timecalculator",
+      "to": "/time",
+      "status": 301
+    },
+    {
+      "from": "/taxcalculator",
+      "to": "/tax",
+      "status": 301
+    },
+    {
+      "from": "/studentloancalculator",
+      "to": "/student-loan",
+      "status": 301
+    },
+    {
+      "from": "/snowdaycalculator",
+      "to": "/snow-day",
+      "status": 301
+    },
+    {
+      "from": "/rocketmortgagecalculator",
+      "to": "/rocket-mortgage",
+      "status": 301
+    },
+    {
+      "from": "/refinancecalculator",
+      "to": "/refinance",
+      "status": 301
+    },
+    {
+      "from": "/rebacalculator",
+      "to": "/reba",
+      "status": 301
+    },
+    {
+      "from": "/profitmargincalculator",
+      "to": "/profit-margin",
+      "status": 301
+    },
+    {
+      "from": "/personalloancalculator",
+      "to": "/personal-loan",
+      "status": 301
+    },
+    {
+      "from": "/parlaycalculator",
+      "to": "/parlay",
+      "status": 301
+    },
+    {
+      "from": "/oddscalculator",
+      "to": "/odds",
+      "status": 301
+    },
+    {
+      "from": "/mortgagecalculator",
+      "to": "/mortgage",
+      "status": 301
+    },
+    {
+      "from": "/margincalculator",
+      "to": "/margin",
+      "status": 301
+    },
+    {
+      "from": "/loancalculator",
+      "to": "/loan",
+      "status": 301
+    },
+    {
+      "from": "/landloancalculator",
+      "to": "/land-loan",
+      "status": 301
+    },
+    {
+      "from": "/investmentgrowthcalculator",
+      "to": "/finance",
+      "status": 301
+    },
+    {
+      "from": "/heloccalculator",
+      "to": "/heloc",
+      "status": 301
+    },
+    {
+      "from": "/grossmargincalculator",
+      "to": "/gross-margin",
+      "status": 301
+    },
+    {
+      "from": "/gradecalculator",
+      "to": "/grade",
+      "status": 301
+    },
+    {
+      "from": "/gpacalculator",
+      "to": "/gpa",
+      "status": 301
+    },
+    {
+      "from": "/dunkcalculator",
+      "to": "/dunk",
+      "status": 301
+    },
+    {
+      "from": "/citplatinumsavingscalculator",
+      "to": "/cit-platinum-savings",
+      "status": 301
+    },
+    {
+      "from": "/cithysacalculator",
+      "to": "/cit-hysa",
+      "status": 301
+    },
+    {
+      "from": "/citbankhighyieldsavingscalculator",
+      "to": "/cit-high-yield-savings",
+      "status": 301
+    },
+    {
+      "from": "/citbankcalculator",
+      "to": "/cit-bank",
+      "status": 301
+    },
+    {
+      "from": "/californiapaycheckcalculator",
+      "to": "/california-paycheck",
+      "status": 301
+    },
+    {
+      "from": "/birthnegligencecompensationcalculator",
+      "to": "/birth-negligence",
+      "status": 301
+    },
+    {
+      "from": "/bigquerycostcalculator",
+      "to": "/bigquery-cost",
+      "status": 301
+    },
+    {
+      "from": "/autoloancalculator",
+      "to": "/auto-loan",
+      "status": 301
+    },
+    {
+      "from": "/agecalculator",
+      "to": "/age",
+      "status": 301
+    },
+    {
+      "from": "/adppaycheckcalculator",
+      "to": "/adp-paycheck",
+      "status": 301
+    },
+    {
+      "from": "/contactus",
+      "to": "/contact-us",
+      "status": 301
+    }
+  ],
+  "canonicals": {
+    "home": "https://financeloancalc.com/",
+    "about": "https://financeloancalc.com/about-us",
+    "privacy": "https://financeloancalc.com/privacy-policy",
+    "terms": "https://financeloancalc.com/terms-of-service",
+    "calculators": {
+      "time": "https://financeloancalc.com/time",
+      "mortgage": "https://financeloancalc.com/mortgage",
+      "profit": "https://financeloancalc.com/profit-margin",
+      "rocket": "https://financeloancalc.com/rocket-mortgage",
+      "snowday": "https://financeloancalc.com/snow-day",
+      "cithysa": "https://financeloancalc.com/cit-hysa"
+    }
+  },
+  "url_structure": {
+    "base_url": "https://financeloancalc.com",
+    "trailing_slash": false,
+    "case_sensitive": false,
+    "www_preference": false
+  }
+}

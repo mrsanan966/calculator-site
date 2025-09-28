@@ -1,0 +1,88 @@
+{
+  "redirects": [
+
+    {
+      "from": "www.financeloancalc.com/timecalculator",
+      "to": "https://www.financeloancalc.com/time-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/timecalculator",
+      "to": "https://www.financeloancalc.com/time-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/time-calculator",
+      "to": "https://www.financeloancalc.com/time-calculator",
+      "status": 301
+    },
+
+    {
+      "from": "www.financeloancalc.com/taxcalculator",
+      "to": "https://www.financeloancalc.com/tax-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/taxcalculator",
+      "to": "https://www.financeloancalc.com/tax-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/studentloancalculator",
+      "to": "https://www.financeloancalc.com/student-loan-calculator",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/studentloancalculator",
+      "to": "https://www.financeloancalc.com/student-loan-calculator",
+      "status": 301
+    },
+    {
+      "from": "www.financeloancalc.com/about",
+      "to": "https://www.financeloancalc.com/about-us",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/about",
+      "to": "https://www.financeloancalc.com/about-us",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/aboutus",
+      "to": "https://www.financeloancalc.com/about-us",
+      "status": 301
+    },
+
+    {
+      "from": "www.financeloancalc.com/privacy",
+      "to": "https://www.financeloancalc.com/privacy-policy",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/privacy",
+      "to": "https://www.financeloancalc.com/privacy-policy",
+      "status": 301
+    },
+
+    {
+      "from": "www.financeloancalc.com/terms",
+      "to": "https://www.financeloancalc.com/terms-of-service",
+      "status": 301
+    },
+    {
+      "from": "financeloancalc.com/terms",
+      "to": "https://www.financeloancalc.com/terms-of-service",
+      "status": 301
+    }
+  ],
+
+  "canonical_urls": [
+    "https://www.financeloancalc.com/time-calculator",
+    "https://www.financeloancalc.com/tax-calculator",
+    "https://www.financeloancalc.com/student-loan-calculator",
+    "https://www.financeloancalc.com/rocket-mortgage-calculator",
+    "https://www.financeloancalc.com/about-us",
+    "https://www.financeloancalc.com/privacy-policy",
+    "https://www.financeloancalc.com/terms-of-service"
+  ]
+}
