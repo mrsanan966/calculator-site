@@ -3,7 +3,7 @@
   <!-- Main Pages -->
   <url>
     <loc>https://financeloancalc.com/</loc>
-    <lastmod>2025-05-19T11:35:12.000Z</lastmod>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -311,7 +311,81 @@
   </url>
   <url>
     <loc>https://financeloancalc.com/savings</loc>
-    <lastmod>2025-05-19T11:35:12.000Z</lastmod>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Enhanced Calculator Pages with SEO Content -->
+  <url>
+    <loc>https://financeloancalc.com/compound-interest</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://financeloancalc.com/credit-card-interest</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://financeloancalc.com/debt</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://financeloancalc.com/investment</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://financeloancalc.com/investment-growth</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://financeloancalc.com/loan-payment</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://financeloancalc.com/mortgage-payment</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://financeloancalc.com/retirement</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://financeloancalc.com/savings-goal</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://financeloancalc.com/tip</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://financeloancalc.com/adp-apycheck</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://financeloancalc.com/cit-bank-platinum-savings</loc>
+    <lastmod>2025-01-15T10:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
