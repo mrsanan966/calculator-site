@@ -5,42 +5,82 @@
   "outputDirectory": "dist",
   "framework": "vite",
   "routes": [
-    { "src": "/", "dest": "/home" },
-    { "src": "/(.*)/$", "dest": "/$1" },
-    { "src": "^www\\.financeloancalc\\.com/(.*)$", "dest": "https://financeloancalc.com/$1" },
-    { "src": "/404", "dest": "/404.html" },
-    { "src": "/ads.txt", "dest": "/ads.txt" },
-    { "src": "/robots.txt", "dest": "/robots.txt" },
-    { "src": "/sitemap.xml", "dest": "/sitemap.xml" },
-    { "src": "/favicon.ico", "dest": "/favicon.ico" },
-    { "src": "/(.*\\.(js|css|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot|webp))", "dest": "/$1" },
-    { "src": "/(.*)", "dest": "/index.html" }
-  ],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "X-Content-Type-Options",
-          "value": "nosniff"
-        },
-        {
-          "key": "X-Frame-Options",
-          "value": "DENY"
-        },
-        {
-          "key": "X-XSS-Protection",
-          "value": "1; mode=block"
-        },
-        {
-          "key": "Referrer-Policy",
-          "value": "strict-origin-when-cross-origin"
-        },
-        {
-          "key": "Permissions-Policy",
-          "value": "camera=(), microphone=(), geolocation=()"
-        }
-      ]
+    { 
+      "src": "/", 
+      "dest": "/home",
+      "headers": {
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-XSS-Protection": "1; mode=block",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()"
+      }
+    },
+    { 
+      "src": "/(.*)/$", 
+      "dest": "/$1",
+      "headers": {
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-XSS-Protection": "1; mode=block",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()"
+      }
+    },
+    { 
+      "src": "^www\\.financeloancalc\\.com/(.*)$", 
+      "dest": "https://financeloancalc.com/$1"
+    },
+    { 
+      "src": "/404", 
+      "dest": "/404.html",
+      "headers": {
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-XSS-Protection": "1; mode=block",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()"
+      }
+    },
+    { 
+      "src": "/ads.txt", 
+      "dest": "/ads.txt",
+      "headers": {
+        "Content-Type": "text/plain"
+      }
+    },
+    { 
+      "src": "/robots.txt", 
+      "dest": "/robots.txt",
+      "headers": {
+        "Content-Type": "text/plain"
+      }
+    },
+    { 
+      "src": "/sitemap.xml", 
+      "dest": "/sitemap.xml",
+      "headers": {
+        "Content-Type": "application/xml"
+      }
+    },
+    { 
+      "src": "/favicon.ico", 
+      "dest": "/favicon.ico"
+    },
+    { 
+      "src": "/(.*\\.(js|css|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot|webp))", 
+      "dest": "/$1"
+    },
+    { 
+      "src": "/(.*)", 
+      "dest": "/index.html",
+      "headers": {
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-XSS-Protection": "1; mode=block",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()"
+      }
     }
   ]
 }
