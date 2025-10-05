@@ -9,7 +9,7 @@
     { "source": "/(.*)/$", "destination": "/$1" },
     { "source": "^www\\.financeloancalc\\.com/(.*)$", "destination": "https://financeloancalc.com/$1" },
     { "source": "/404", "destination": "/404.html" },
-    { "source": "/(.*)", "destination": "/index.html" }
+    { "source": "/((?!ads\\.txt|robots\\.txt|sitemap\\.xml|favicon\\.ico|.*\\.(js|css|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot|webp)).*)", "destination": "/index.html" }
   ],
   "headers": [
     {
