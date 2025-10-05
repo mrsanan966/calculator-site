@@ -40,3 +40,4 @@ export const AccordionContent = ({ children, className = '', ...props }) => {
     </div>
   );
 };
+
