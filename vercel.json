@@ -14,9 +14,11 @@
         "X-XSS-Protection": "1; mode=block",
         "Referrer-Policy": "strict-origin-when-cross-origin",
         "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
-        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Cache-Control": "no-cache, no-store, must-revalidate, max-age=0",
         "Pragma": "no-cache",
-        "Expires": "0"
+        "Expires": "0",
+        "Last-Modified": "Thu, 01 Jan 1970 00:00:00 GMT",
+        "ETag": "\"cache-buster-v2\""
       }
     },
     { 
@@ -35,7 +37,8 @@
     },
     { 
       "src": "^www\\.financeloancalc\\.com/(.*)$", 
-      "dest": "https://financeloancalc.com/$1"
+      "dest": "https://financeloancalc.com/$1",
+      "status": 301
     },
     { 
       "src": "/404", 
