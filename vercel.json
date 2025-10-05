@@ -4,12 +4,17 @@
   "buildCommand": "npm run vercel-build",
   "outputDirectory": "dist",
   "framework": "vite",
-  "rewrites": [
-    { "source": "/", "destination": "/home" },
-    { "source": "/(.*)/$", "destination": "/$1" },
-    { "source": "^www\\.financeloancalc\\.com/(.*)$", "destination": "https://financeloancalc.com/$1" },
-    { "source": "/404", "destination": "/404.html" },
-    { "source": "/((?!ads\\.txt|robots\\.txt|sitemap\\.xml|favicon\\.ico|.*\\.(js|css|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot|webp)).*)", "destination": "/index.html" }
+  "routes": [
+    { "src": "/", "dest": "/home" },
+    { "src": "/(.*)/$", "dest": "/$1" },
+    { "src": "^www\\.financeloancalc\\.com/(.*)$", "dest": "https://financeloancalc.com/$1" },
+    { "src": "/404", "dest": "/404.html" },
+    { "src": "/ads.txt", "dest": "/ads.txt" },
+    { "src": "/robots.txt", "dest": "/robots.txt" },
+    { "src": "/sitemap.xml", "dest": "/sitemap.xml" },
+    { "src": "/favicon.ico", "dest": "/favicon.ico" },
+    { "src": "/(.*\\.(js|css|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot|webp))", "dest": "/$1" },
+    { "src": "/(.*)", "dest": "/index.html" }
   ],
   "headers": [
     {
